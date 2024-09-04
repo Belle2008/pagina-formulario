@@ -1,0 +1,13 @@
+.borda{
+    width: 400px;
+    height: 500px;
+    margin-left: 400px;
+    margin-top: 60px;
+    
+}
+.botao{
+border: none;
+background-color: white;
+margin-left: 360px;
+font-size: 25px;
+}
