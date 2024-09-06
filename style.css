@@ -3,8 +3,16 @@
     height: 400px;
     margin-left: 400px;
     margin-top: 60px;
-    
+    box-shadow: 10px 10px 5px black;
 }
+.borda2{
+    width: 200px;
+    height: 450px;
+    margin-left: 400px;
+    margin-top: 60px;
+    box-shadow: 10px 10px 5px black;
+}
+
 .botao{
 border: none;
 background-color: white;
@@ -12,6 +20,14 @@ margin-left: 260px;
 font-size: 25px;
 }
 .LOGIN{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(43, 43, 142);
+    display: block;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+.CADASTRAR{
     font-size: 35px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(43, 43, 142);
@@ -28,6 +44,26 @@ font-size: 25px;
     margin-left: 10px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
+   
+}
+
+.cadastro{
+    margin-bottom: 22px;
+}
+.cadeado{
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+   
+}
+#segredo{
+    height: 25px;
+width: 230px;
+display: block;
+background-color: rgb(194, 194, 194);
+border: none;
+margin-left: 10px;
+
 }
 
 #usuario{
@@ -51,6 +87,48 @@ ul li{
     list-style-type: none;
 }
 .s{
-    margin-left: 140px;
-  
+    margin-left: 130px;
+}
+.entrar{
+    width: 230px;
+    height: 35px;
+    background-color: rgb(50, 12, 156);
+    color: white;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: -22px;
+    display: block;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+   color: black;
+   font-size: 15px;
+   margin-left: 55px;
+} 
+a{
+    color: black;
+    text-align: center;
+    text-decoration: none;
+}
+
+.c{
+    color: rgb(30, 30, 100);
+    text-decoration: none;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.h{
+    color: black;
+    text-align: center;
+    text-decoration: none;  
+    margin-left: 15px;
+}
+
+.e{
+    color: rgb(30, 30, 100);
+    text-decoration: none;
+    text-align: center;
+    margin-left: 15px;
 }
